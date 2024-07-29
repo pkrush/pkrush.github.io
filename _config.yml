@@ -1,0 +1,72 @@
+# Site settings
+title: Paul Krush Home Page
+description: A description of my Jekyll site
+domain: PaulKrush.com
+baseurl: "" # the subpath of your site, e.g., /docs
+url: "http://PaulKrush.com" # the base hostname & protocol for your site
+author: Paul Krush
+
+# Build settings
+markdown: kramdown
+theme: minima
+
+# Plugins
+plugins:
+  - jekyll-feed
+  - jekyll-sitemap
+
+# Exclusions
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - node_modules/
+  - vendor/
+
+# Include additional directories
+include:
+  - _pages
+
+# Permalinks
+permalink: /:categories/:year/:month/:day/:title/
+
+# Defaults
+defaults:
+  -
+    scope:
+      path: ""
+      type: "posts"
+    values:
+      layout: "post"
+      author: "Your Name"
+
+# Markdown settings
+kramdown:
+  input: GFM
+  hard_wrap: false
+
+# Social media links
+social_links:
+  twitter: your_twitter_username
+  github: your_github_username
+
+# Pagination
+pagination:
+  enabled: true
+  per_page: 5
+  permalink: /page/:num/
+
+# Comments
+comments:
+  provider: disqus
+  disqus:
+    shortname: your_disqus_shortname
+
+# Google Analytics
+google_analytics: UA-XXXXXXXX-X
+
+# Enable live reload
+livereload:
+  enabled: true
+
+# Highlighter
+highlighter: rouge
