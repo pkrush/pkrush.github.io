@@ -4,15 +4,6 @@ title: About
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+I am a computer vision software engineer with a passion for deep learning and computer vision.
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
-
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
-
-
-[jekyll-organization]: https://github.com/jekyll
+I have a strong background in computer vision, deep learning, and software engineering. I have a Master's degree in Computer Science from the University of California, Riverside. I have experience in developing computer vision and deep learning applications for various industries, including automotive, healthcare, and robotics. I am proficient in Python, C++, and MATLAB. I am also experienced in using deep learning frameworks such as TensorFlow and PyTorch. I am passionate about learning new technologies and solving challenging problems. I am always looking for new opportunities to work on exciting projects and collaborate with talented individuals. 
