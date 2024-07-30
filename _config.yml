@@ -8,7 +8,7 @@ author: Paul Krush
 
 # Build settings
 markdown: kramdown
-theme: architect
+theme: jekyll-theme-architect
 
 # Plugins
 plugins:
