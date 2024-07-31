@@ -1,6 +1,6 @@
 # Site settings
 title: Paul Krush Home Page
-description: A description of my Jekyll site
+description: Welcome to my personal website. I'm a software engineer and I love to write about programming, technology, and other topics that interest me.
 domain: PaulKrush.com
 baseurl: "" # the subpath of your site, e.g., /docs
 url: "http://PaulKrush.com" # the base hostname & protocol for your site
@@ -46,8 +46,8 @@ kramdown:
 
 # Social media links
 social_links:
-  twitter: your_twitter_username
-  github: your_github_username
+  twitter: paulkrush
+  github: pkrush
 
 # Pagination
 pagination:
@@ -60,9 +60,6 @@ comments:
   provider: disqus
   disqus:
     shortname: your_disqus_shortname
-
-# Google Analytics
-google_analytics: UA-XXXXXXXX-X
 
 # Enable live reload
 livereload:

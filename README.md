@@ -1,2 +1,1 @@
-# pkrush.github.io
-Paul Krush Home Page
+Paul Krush Home Page Repo
