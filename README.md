@@ -1,7 +1,12 @@
 Computer vision and Camera Calibration
-    Testing README.md functions
-# Computer vision and Camera Calibration
+    I am testing README.md functions on this page...
+    
+[2D.Bot Discord Channel Link](https://discord.com/channels/1281236693374074895/)
+    
+## Computer vision and Camera Calibration
+``` python 
     You are reading LLM generated slop...
+```
 ## Camera Calibration
 Detailed explanation of camera calibration
 Example of camera calibration
